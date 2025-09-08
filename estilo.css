@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  height: 100%;
+  height: 50%;
 }
 
 *,
@@ -11,8 +11,8 @@ html {
 
 html,
 body {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
   
   
   /* Código para poner un cursor personalizado*/
@@ -34,13 +34,13 @@ h2 {
 #tituloPagina {
   margin-top: 1em;
   margin-bottom: 0;
-  font-family: sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
 }
 
 #foto {
- height: 300px;
-  border: #ff7300 solid 5px;
-  margin-top: 15px;
+ height: 300%;
+  border: #6fff00 solid 5px;
+  margin-top: 50px;
 }
 
 .tituloPrediccion {
@@ -57,8 +57,11 @@ h2 {
 
 #boton {
   font-size: 0.9em;
-  background-color: #3d00fdb5;
-  color: white;
+  background-color: #fdf900b5;
+  color: rgb(255, 0, 0);
   margin-bottom: 2em;
   cursor: pointer;
 }
+#imagenes {
+height:
+margin: 

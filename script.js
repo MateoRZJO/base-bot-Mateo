@@ -1,17 +1,26 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+  "https://faitc.org/wp-content/uploads/2021/04/carambola-3233390_1280.jpg",
+  "https://fruiver.com/wp-content/uploads/2021/10/Maracuya-best-berries-peru.png",
+  "https://mercadobecampo.com/cdn/shop/products/pitaya_Mesadetrabajo1.jpg?v=1594396978&width=1920.jpg",
+  "https://caribbeanexotics.com.co/wp-content/uploads/2021/03/lulo-producto-caribbean-exotics.png",
+  "https://fruverhome.co/wp-content/uploads/2020/08/UCHUVA.jpg",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Carambola",
+  "Maracuya",
+  "Pitaya",
+  "Lulo",
+  "Uchuva",
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Eres una completa estrella en el interior, haz que tu luz llegue a todos nosotros.",
+  "Aunque resultes exotico para los demas nunca dejes que apaguen tu pasion.",
+  "Eres imponente, aunque esto es de frutas tu animal interior es el dragon.",
+  "Dentro de toda tu acides hay un dulzor sin igual.",
+  "Que no te detenga el que no todos logren ver el potencial que hay en tu interior.",
 ];
 
 // Trae los elementos del HTML que tienen ese id
